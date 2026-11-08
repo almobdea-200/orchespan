@@ -1,0 +1,6 @@
+# Keep generated work and credentials out of Git
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
